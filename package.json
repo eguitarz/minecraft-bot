@@ -1,0 +1,26 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "mineflayer": "^1.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eguitarz/minecraft-bot.git"
+  },
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "eguitarz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eguitarz/minecraft-bot/issues"
+  },
+  "homepage": "https://github.com/eguitarz/minecraft-bot#readme"
+}
